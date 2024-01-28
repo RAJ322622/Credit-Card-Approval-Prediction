@@ -1,4 +1,4 @@
-**CREDIT CARD APPROVAL PREDICTING USING ML.**
+**PREDICTE CREDIT CARD APPROVAL USING ML.**
 
 **Why is your proposal important in today’s world? How predicting a good client is worthy for a bank?**
 
